@@ -129,16 +129,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=caus90&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caus90&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" />
+  <img height="170" src="https://raw.githubusercontent.com/caus90/caus90/output/stats.svg" alt="GitHub stats" />
+  <img height="170" src="https://raw.githubusercontent.com/caus90/caus90/output/langs.svg" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=caus90&theme=chartreuse-dark&hide_border=true" />
+  <img width="100%" src="https://raw.githubusercontent.com/caus90/caus90/output/streak.svg" alt="Contribution streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=caus90&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&hide_border=true&area=true" />
+  <img width="100%" src="https://raw.githubusercontent.com/caus90/caus90/output/activity.svg" alt="Activity graph" />
 </p>
 
 ---
