@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&color=00FF41&center=true&vCenter=true&width=650&lines=%3E+whoami;%3E+Cybersecurity+%F0%9F%94%90;%3E+Pentest+%E2%80%A2+Hardening+%E2%80%A2+Blue+Team;%3E+Active+Directory+%E2%80%A2+GPO+%E2%80%A2+Windows+Server;%3E+Linux+%E2%80%A2+Docker+%E2%80%A2+Nginx;%3E+PHP+%E2%80%A2+React+%E2%80%A2+Next.js;%3E+nmap+-sV+-p-+target_" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&color=00FF41&center=true&vCenter=true&width=650&lines=%3E+whoami;%3E+Cybersecurity+%F0%9F%94%90;%3E+Red+Team+%E2%80%A2+Hardening+%E2%80%A2+Blue+Team;%3E+Active+Directory+%E2%80%A2+GPO+%E2%80%A2+Windows+Server;%3E+Linux+%E2%80%A2+Docker+%E2%80%A2+Nginx;%3E+PHP+%E2%80%A2+React+%E2%80%A2+Next.js;%3E+nmap+-sV+-p-+target_" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About me
 
-- 🔐 I work in **cybersecurity**: pentesting, hardening and blue team
+- 🔐 I work in **cybersecurity**: red team, hardening, blue team and digital forensics
 - 🖥️ I manage **infrastructure**: Active Directory, GPO, Windows Server, Linux and Docker
 - 💻 I build **full stack** applications with PHP, React and Next.js
 
@@ -24,7 +24,7 @@
 ### 🔐 Cybersecurity
 
 <p align="center">
-  <b>Offensive / Pentest</b><br/><br/>
+  <b>Offensive / Red Team</b><br/><br/>
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Parrot%20OS-15E0ED?style=for-the-badge&logo=parrotsecurity&logoColor=black" />
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
@@ -44,6 +44,7 @@
   <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
   <img src="https://img.shields.io/badge/Snort%20%2F%20Suricata-EF3B24?style=for-the-badge&logo=snort&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/IPED%20Forensics-1B5E20?style=for-the-badge&logoColor=white" />
 </p>
 
 <p align="center">
@@ -60,6 +61,7 @@
   <b>Frameworks & Standards</b><br/><br/>
   <img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=for-the-badge&logo=owasp&logoColor=white" />
   <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-C8102E?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/NIST%20CSF%202.0-000000?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/ISO%2027001-005EB8?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/LGPD-009C3B?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/CIS%20Controls-2E3192?style=for-the-badge&logoColor=white" />
