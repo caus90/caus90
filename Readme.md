@@ -1,6 +1,6 @@
 <!-- ===== CABEÇALHO ANIMADO ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0d1117,100:00ff41&height=220&section=header&text=SEU_NOME&fontSize=60&fontColor=00ff41&animation=twinkling&stroke=00ff41&strokeWidth=1&desc=Cybersecurity%20•%20Infraestrutura%20•%20Full%20Stack&descAlignY=72&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0d1117,100:00ff41&height=220&section=header&text=Cau%C3%A3%20Gon%C3%A7alves&fontSize=60&fontColor=00ff41&animation=twinkling&stroke=00ff41&strokeWidth=1&desc=Cybersecurity%20•%20Infraestrutura%20•%20Full%20Stack&descAlignY=72&descSize=18" />
 </p>
 
 <p align="center">
@@ -8,8 +8,16 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visitas&color=00ff41&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=caus90&label=Visitas&color=00ff41&style=flat" />
 </p>
+
+---
+
+### 👨‍💻 Sobre mim
+
+- 🔐 Trabalho com **cibersegurança**: pentest, hardening e blue team
+- 🖥️ Cuido de **infraestrutura**: Active Directory, GPO, Windows Server, Linux e Docker
+- 💻 Desenvolvo aplicações **full stack** com PHP, React e Next.js
 
 ---
 
@@ -36,7 +44,6 @@
   <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
   <img src="https://img.shields.io/badge/Snort%20%2F%20Suricata-EF3B24?style=for-the-badge&logo=snort&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
 </p>
 
 <p align="center">
@@ -56,12 +63,6 @@
   <img src="https://img.shields.io/badge/ISO%2027001-005EB8?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/LGPD-009C3B?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/CIS%20Controls-2E3192?style=for-the-badge&logoColor=white" />
-</p>
-
-<p align="center">
-  <b>Labs & CTF</b><br/><br/>
-  <a href="https://tryhackme.com/p/SEU_USUARIO_THM"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
-  <a href="https://app.hackthebox.com/profile/SEU_ID_HTB"><img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" /></a>
 </p>
 
 ---
@@ -92,7 +93,7 @@
 
 <p align="center">
   <b>Backend & APIs</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=php,nodejs,express&theme=dark" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" /><br/><br/>
   <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
@@ -126,32 +127,35 @@
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8&locale=pt-br" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=caus90&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caus90&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8&locale=pt-br" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=chartreuse-dark&hide_border=true&locale=pt_BR" />
+  <img src="https://streak-stats.demolab.com?user=caus90&theme=chartreuse-dark&hide_border=true&locale=pt_BR" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=caus90&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&hide_border=true&area=true" />
 </p>
 
 ---
 
+### 🐍 Contribuições
+
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake-dark.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caus90/caus90/output/github-snake-dark.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/caus90/caus90/output/github-snake.svg" />
   </picture>
 </p>
 
 ---
 
+### 📫 Contato
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:caus90sandro@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <!-- ===== RODAPÉ ANIMADO ===== -->
