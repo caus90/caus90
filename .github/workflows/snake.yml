@@ -1,4 +1,4 @@
-name: Gerar animação da cobrinha
+name: Generate snake animation
 
 on:
   schedule:

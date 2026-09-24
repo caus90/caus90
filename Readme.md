@@ -1,6 +1,6 @@
-<!-- ===== CABEÇALHO ANIMADO ===== -->
+<!-- ===== ANIMATED HEADER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0d1117,100:00ff41&height=220&section=header&text=Cau%C3%A3%20Gon%C3%A7alves&fontSize=60&fontColor=00ff41&animation=twinkling&stroke=00ff41&strokeWidth=1&desc=Cybersecurity%20•%20Infraestrutura%20•%20Full%20Stack&descAlignY=72&descSize=18" />
+  <img src="assets/header.svg" alt="caus90" width="100%" />
 </p>
 
 <p align="center">
@@ -8,23 +8,23 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=caus90&label=Visitas&color=00ff41&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=caus90&label=Profile%20views&color=00ff41&style=flat" />
 </p>
 
 ---
 
-### 👨‍💻 Sobre mim
+### 👨‍💻 About me
 
-- 🔐 Trabalho com **cibersegurança**: pentest, hardening e blue team
-- 🖥️ Cuido de **infraestrutura**: Active Directory, GPO, Windows Server, Linux e Docker
-- 💻 Desenvolvo aplicações **full stack** com PHP, React e Next.js
+- 🔐 I work in **cybersecurity**: pentesting, hardening and blue team
+- 🖥️ I manage **infrastructure**: Active Directory, GPO, Windows Server, Linux and Docker
+- 💻 I build **full stack** applications with PHP, React and Next.js
 
 ---
 
 ### 🔐 Cybersecurity
 
 <p align="center">
-  <b>Ofensivo / Pentest</b><br/><br/>
+  <b>Offensive / Pentest</b><br/><br/>
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Parrot%20OS-15E0ED?style=for-the-badge&logo=parrotsecurity&logoColor=black" />
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <b>Defensivo / Blue Team</b><br/><br/>
+  <b>Defensive / Blue Team</b><br/><br/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=elastic&logoColor=white" />
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
@@ -47,7 +47,7 @@
 </p>
 
 <p align="center">
-  <b>Hardening & Identidade</b><br/><br/>
+  <b>Hardening & Identity</b><br/><br/>
   <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/GPO-1f1f1f?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20Defender-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" />
@@ -57,7 +57,7 @@
 </p>
 
 <p align="center">
-  <b>Frameworks & Normas</b><br/><br/>
+  <b>Frameworks & Standards</b><br/><br/>
   <img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=for-the-badge&logo=owasp&logoColor=white" />
   <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-C8102E?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/ISO%2027001-005EB8?style=for-the-badge&logoColor=white" />
@@ -67,7 +67,7 @@
 
 ---
 
-### 🖥️ Infraestrutura & DevOps
+### 🖥️ Infrastructure & DevOps
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,windows,docker,nginx,bash,powershell,githubactions,git&theme=dark&perline=10" />
@@ -75,10 +75,10 @@
 
 ---
 
-### 💻 Desenvolvimento
+### 💻 Development
 
 <p align="center">
-  <b>Linguagens</b><br/><br/>
+  <b>Languages</b><br/><br/>
   <img src="https://skillicons.dev/icons?i=php,js,ts,python,html,css,bash&theme=dark" />
 </p>
 
@@ -103,12 +103,12 @@
 </p>
 
 <p align="center">
-  <b>Banco de Dados</b><br/><br/>
+  <b>Databases</b><br/><br/>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,redis&theme=dark" />
 </p>
 
 <p align="center">
-  <b>Qualidade, Testes & Monitoramento</b><br/><br/>
+  <b>Quality, Testing & Monitoring</b><br/><br/>
   <img src="https://img.shields.io/badge/PHPUnit-3C9CD7?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP__CodeSniffer-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
@@ -117,22 +117,22 @@
 </p>
 
 <p align="center">
-  <b>Ferramentas</b><br/><br/>
+  <b>Tools</b><br/><br/>
   <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,npm&theme=dark" /><br/><br/>
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
 ---
 
-### 📊 Estatísticas
+### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=caus90&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caus90&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8&locale=pt-br" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=caus90&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caus90&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=caus90&theme=chartreuse-dark&hide_border=true&locale=pt_BR" />
+  <img src="https://streak-stats.demolab.com?user=caus90&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 <p align="center">
@@ -141,7 +141,7 @@
 
 ---
 
-### 🐍 Contribuições
+### 🐍 Contributions
 
 <p align="center">
   <picture>
@@ -152,13 +152,13 @@
 
 ---
 
-### 📫 Contato
+### 📫 Contact
 
 <p align="center">
   <a href="mailto:caus90sandro@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<!-- ===== RODAPÉ ANIMADO ===== -->
+<!-- ===== ANIMATED FOOTER ===== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:0d1117,100:000000&height=120&section=footer" />
 </p>
