@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="260" viewBox="0 0 850 260">
+  <style>
+    text { font-family: 'Courier New', Consolas, monospace; }
+    .t { font-size: 14px; font-weight: 700; fill: #00ff41; }
+    .l { font-size: 13px; fill: #8b949e; }
+    .v { font-size: 14px; font-weight: 700; fill: #c9d1d9; }
+    .big { font-size: 30px; font-weight: 700; fill: #00ff41; }
+    .fade { opacity: 0; animation: in .5s ease forwards; }
+    @keyframes in { to { opacity: 1; } }
+  </style>
+  <rect x="1" y="1" width="848" height="258" rx="10" fill="#0d1117" stroke="#00ff41" stroke-opacity=".5" stroke-width="1.5"/>
+  <circle cx="18" cy="18" r="4" fill="#ff5f56"/><circle cx="32" cy="18" r="4" fill="#ffbd2e"/><circle cx="46" cy="18" r="4" fill="#27c93f"/>
+  <text x="62" y="23" class="t">~$ activity --last 31d</text>
+  <line x1="1" y1="34" x2="849" y2="34" stroke="#00ff41" stroke-opacity=".25"/>
+  <defs><linearGradient id="fill" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#00ff41" stop-opacity=".35"/><stop offset="1" stop-color="#00ff41" stop-opacity="0"/></linearGradient></defs>
+  <line x1="50" y1="215" x2="825" y2="215" stroke="#8b949e" stroke-opacity=".15"/>
+  <text x="40" y="219" class="l" text-anchor="end" style="font-size:11px">0</text>
+  <line x1="50" y1="175" x2="825" y2="175" stroke="#8b949e" stroke-opacity=".15"/>
+  <text x="40" y="179" class="l" text-anchor="end" style="font-size:11px">1</text>
+  <line x1="50" y1="135" x2="825" y2="135" stroke="#8b949e" stroke-opacity=".15"/>
+  <text x="40" y="139" class="l" text-anchor="end" style="font-size:11px">3</text>
+  <line x1="50" y1="95" x2="825" y2="95" stroke="#8b949e" stroke-opacity=".15"/>
+  <text x="40" y="99" class="l" text-anchor="end" style="font-size:11px">4</text>
+  <line x1="50" y1="55" x2="825" y2="55" stroke="#8b949e" stroke-opacity=".15"/>
+  <text x="40" y="59" class="l" text-anchor="end" style="font-size:11px">5</text>
+  <text x="50.0" y="238" class="l" text-anchor="middle" style="font-size:11px">27/08</text>
+  <text x="179.2" y="238" class="l" text-anchor="middle" style="font-size:11px">01/09</text>
+  <text x="308.3" y="238" class="l" text-anchor="middle" style="font-size:11px">06/09</text>
+  <text x="437.5" y="238" class="l" text-anchor="middle" style="font-size:11px">11/09</text>
+  <text x="566.7" y="238" class="l" text-anchor="middle" style="font-size:11px">16/09</text>
+  <text x="695.8" y="238" class="l" text-anchor="middle" style="font-size:11px">21/09</text>
+  <text x="825.0" y="238" class="l" text-anchor="middle" style="font-size:11px">26/09</text>
+  <path d="M50.0,215.0 L75.8,215.0 L101.7,215.0 L127.5,215.0 L153.3,215.0 L179.2,215.0 L205.0,215.0 L230.8,215.0 L256.7,215.0 L282.5,215.0 L308.3,215.0 L334.2,215.0 L360.0,215.0 L385.8,215.0 L411.7,215.0 L437.5,215.0 L463.3,215.0 L489.2,215.0 L515.0,215.0 L540.8,215.0 L566.7,215.0 L592.5,215.0 L618.3,215.0 L644.2,215.0 L670.0,215.0 L695.8,215.0 L721.7,215.0 L747.5,215.0 L773.3,55.0 L799.2,215.0 L825.0,215.0 L825.0,215 L50,215 Z" fill="url(#fill)" class="fade" style="animation-delay:.8s"/>
+  <path d="M50.0,215.0 L75.8,215.0 L101.7,215.0 L127.5,215.0 L153.3,215.0 L179.2,215.0 L205.0,215.0 L230.8,215.0 L256.7,215.0 L282.5,215.0 L308.3,215.0 L334.2,215.0 L360.0,215.0 L385.8,215.0 L411.7,215.0 L437.5,215.0 L463.3,215.0 L489.2,215.0 L515.0,215.0 L540.8,215.0 L566.7,215.0 L592.5,215.0 L618.3,215.0 L644.2,215.0 L670.0,215.0 L695.8,215.0 L721.7,215.0 L747.5,215.0 L773.3,55.0 L799.2,215.0 L825.0,215.0" fill="none" stroke="#00ff41" stroke-width="2.5" stroke-linejoin="round" stroke-dasharray="2325" stroke-dashoffset="2325" style="animation: draw 1.6s ease forwards"/>
+  <g class="fade" style="animation-delay:1.4s"><circle cx="50.0" cy="215.0" r="3" fill="#0d1117" stroke="#00ff41" stroke-width="2"/><circle cx="75.8" cy="215.0" r="3" fill="#0d1117" stroke="#00ff41" stroke-width="2"/><circle cx="101.7" cy="215.0" r="3" fill="#0d1117" stroke="#00ff41" stroke-width="2"/><circle cx="127.5" cy="215.0" r="3" fill="#0d1117" stroke="#00ff41" stroke-width="2"/><circle cx="153.3" cy="215.0" r="3" fill="#0d1117" stroke="#00ff41" stroke-width="2"/><circle cx="179.2" cy="215.0" r="3" fill="#0d1117" stroke="#00ff41" stroke-width="2"/><circle cx="205.0" cy="215.0" r="3" fill="#0d1117" stroke="#00ff41" stroke-width="2"/><circle cx="230.8" cy="215.0" r="3" fill="#0d1117" stroke="#00ff41" stroke-width="2"/><circle cx="256.7" cy="215.0" r="3" fill="#0d1117" stroke="#00ff41" stroke-width="2"/><circle cx="282.5" cy="215.0" r="3" fill="#0d1117" stroke="#00ff41" stroke-width="2"/><circle cx="308.3" cy="215.0" r="3" fill="#0d1117" stroke="#00ff41" stroke-width="2"/><circle cx="334.2" cy="215.0" r="3" fill="#0d1117" stroke="#00ff41" stroke-width="2"/><circle cx="360.0" cy="215.0" r="3" fill="#0d1117" stroke="#00ff41" stroke-width="2"/><circle cx="385.8" cy="215.0" r="3" fill="#0d1117" stroke="#00ff41" stroke-width="2"/><circle cx="411.7" cy="215.0" r="3" fill="#0d1117" stroke="#00ff41" stroke-width="2"/><circle cx="437.5" cy="215.0" r="3" fill="#0d1117" stroke="#00ff41" stroke-width="2"/><circle cx="463.3" cy="215.0" r="3" fill="#0d1117" stroke="#00ff41" stroke-width="2"/><circle cx="489.2" cy="215.0" r="3" fill="#0d1117" stroke="#00ff41" stroke-width="2"/><circle cx="515.0" cy="215.0" r="3" fill="#0d1117" stroke="#00ff41" stroke-width="2"/><circle cx="540.8" cy="215.0" r="3" fill="#0d1117" stroke="#00ff41" stroke-width="2"/><circle cx="566.7" cy="215.0" r="3" fill="#0d1117" stroke="#00ff41" stroke-width="2"/><circle cx="592.5" cy="215.0" r="3" fill="#0d1117" stroke="#00ff41" stroke-width="2"/><circle cx="618.3" cy="215.0" r="3" fill="#0d1117" stroke="#00ff41" stroke-width="2"/><circle cx="644.2" cy="215.0" r="3" fill="#0d1117" stroke="#00ff41" stroke-width="2"/><circle cx="670.0" cy="215.0" r="3" fill="#0d1117" stroke="#00ff41" stroke-width="2"/><circle cx="695.8" cy="215.0" r="3" fill="#0d1117" stroke="#00ff41" stroke-width="2"/><circle cx="721.7" cy="215.0" r="3" fill="#0d1117" stroke="#00ff41" stroke-width="2"/><circle cx="747.5" cy="215.0" r="3" fill="#0d1117" stroke="#00ff41" stroke-width="2"/><circle cx="773.3" cy="55.0" r="3" fill="#0d1117" stroke="#00ff41" stroke-width="2"/><circle cx="799.2" cy="215.0" r="3" fill="#0d1117" stroke="#00ff41" stroke-width="2"/><circle cx="825.0" cy="215.0" r="3" fill="#0d1117" stroke="#00ff41" stroke-width="2"/></g>
+  <style>@keyframes draw { to { stroke-dashoffset: 0; } }</style>
+</svg>

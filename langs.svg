@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="210" viewBox="0 0 400 210">
+  <style>
+    text { font-family: 'Courier New', Consolas, monospace; }
+    .t { font-size: 14px; font-weight: 700; fill: #00ff41; }
+    .l { font-size: 13px; fill: #8b949e; }
+    .v { font-size: 14px; font-weight: 700; fill: #c9d1d9; }
+    .big { font-size: 30px; font-weight: 700; fill: #00ff41; }
+    .fade { opacity: 0; animation: in .5s ease forwards; }
+    @keyframes in { to { opacity: 1; } }
+  </style>
+  <rect x="1" y="1" width="398" height="208" rx="10" fill="#0d1117" stroke="#00ff41" stroke-opacity=".5" stroke-width="1.5"/>
+  <circle cx="18" cy="18" r="4" fill="#ff5f56"/><circle cx="32" cy="18" r="4" fill="#ffbd2e"/><circle cx="46" cy="18" r="4" fill="#27c93f"/>
+  <text x="62" y="23" class="t">~$ top-languages</text>
+  <line x1="1" y1="34" x2="399" y2="34" stroke="#00ff41" stroke-opacity=".25"/>
+  <clipPath id="bar"><rect x="22" y="50" width="356" height="8" rx="4"/></clipPath>
+  <rect x="22" y="50" width="356" height="8" rx="4" fill="#161b22"/>
+  <g clip-path="url(#bar)"><rect x="22.0" y="50" width="188.9" height="8" fill="#3572A5"/><rect x="210.9" y="50" width="166.3" height="8" fill="#f1e05a"/><rect x="377.2" y="50" width="1.0" height="8" fill="#C1F12E"/></g>
+  <g class="fade" style="animation-delay:0ms">
+    <circle cx="27" cy="86" r="5" fill="#3572A5"/>
+    <text x="38" y="90" class="v" style="font-size:13px">Python <tspan class="l">53.1%</tspan></text>
+  </g>
+  <g class="fade" style="animation-delay:120ms">
+    <circle cx="217" cy="86" r="5" fill="#f1e05a"/>
+    <text x="228" y="90" class="v" style="font-size:13px">JavaScript <tspan class="l">46.7%</tspan></text>
+  </g>
+  <g class="fade" style="animation-delay:240ms">
+    <circle cx="27" cy="112" r="5" fill="#C1F12E"/>
+    <text x="38" y="116" class="v" style="font-size:13px">Batchfile <tspan class="l">0.2%</tspan></text>
+  </g>
+</svg>
