@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="210" viewBox="0 0 440 210">
+  <style>
+    text { font-family: 'Courier New', Consolas, monospace; }
+    .t { font-size: 14px; font-weight: 700; fill: #00ff41; }
+    .l { font-size: 13px; fill: #8b949e; }
+    .v { font-size: 14px; font-weight: 700; fill: #c9d1d9; }
+    .big { font-size: 30px; font-weight: 700; fill: #00ff41; }
+    .fade { opacity: 0; animation: in .5s ease forwards; }
+    @keyframes in { to { opacity: 1; } }
+  </style>
+  <rect x="1" y="1" width="438" height="208" rx="10" fill="#0d1117" stroke="#00ff41" stroke-opacity=".5" stroke-width="1.5"/>
+  <circle cx="18" cy="18" r="4" fill="#ff5f56"/><circle cx="32" cy="18" r="4" fill="#ffbd2e"/><circle cx="46" cy="18" r="4" fill="#27c93f"/>
+  <text x="62" y="23" class="t">caus90@github:~$ stats</text>
+  <line x1="1" y1="34" x2="439" y2="34" stroke="#00ff41" stroke-opacity=".25"/>
+  <g class="fade" style="animation-delay:0ms">
+    <text x="22" y="62" class="l"><tspan fill="#00ff41">&gt;</tspan> Total stars</text>
+    <text x="418" y="62" class="v" text-anchor="end">0</text>
+  </g>
+  <g class="fade" style="animation-delay:120ms">
+    <text x="22" y="86" class="l"><tspan fill="#00ff41">&gt;</tspan> Commits (last year)</text>
+    <text x="418" y="86" class="v" text-anchor="end">10</text>
+  </g>
+  <g class="fade" style="animation-delay:240ms">
+    <text x="22" y="110" class="l"><tspan fill="#00ff41">&gt;</tspan> Pull requests</text>
+    <text x="418" y="110" class="v" text-anchor="end">0</text>
+  </g>
+  <g class="fade" style="animation-delay:360ms">
+    <text x="22" y="134" class="l"><tspan fill="#00ff41">&gt;</tspan> Issues</text>
+    <text x="418" y="134" class="v" text-anchor="end">0</text>
+  </g>
+  <g class="fade" style="animation-delay:480ms">
+    <text x="22" y="158" class="l"><tspan fill="#00ff41">&gt;</tspan> Public repos</text>
+    <text x="418" y="158" class="v" text-anchor="end">6</text>
+  </g>
+  <g class="fade" style="animation-delay:600ms">
+    <text x="22" y="182" class="l"><tspan fill="#00ff41">&gt;</tspan> Followers</text>
+    <text x="418" y="182" class="v" text-anchor="end">2</text>
+  </g>
+</svg>
