@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="165" viewBox="0 0 850 165">
+  <style>
+    text { font-family: 'Courier New', Consolas, monospace; }
+    .t { font-size: 14px; font-weight: 700; fill: #00ff41; }
+    .l { font-size: 13px; fill: #8b949e; }
+    .v { font-size: 14px; font-weight: 700; fill: #c9d1d9; }
+    .big { font-size: 30px; font-weight: 700; fill: #00ff41; }
+    .fade { opacity: 0; animation: in .5s ease forwards; }
+    @keyframes in { to { opacity: 1; } }
+  </style>
+  <rect x="1" y="1" width="848" height="163" rx="10" fill="#0d1117" stroke="#00ff41" stroke-opacity=".5" stroke-width="1.5"/>
+  <circle cx="18" cy="18" r="4" fill="#ff5f56"/><circle cx="32" cy="18" r="4" fill="#ffbd2e"/><circle cx="46" cy="18" r="4" fill="#27c93f"/>
+  <text x="62" y="23" class="t">~$ streak --all-time</text>
+  <line x1="1" y1="34" x2="849" y2="34" stroke="#00ff41" stroke-opacity=".25"/>
+  <line x1="283" y1="55" x2="283" y2="145" stroke="#00ff41" stroke-opacity=".2"/>
+  <line x1="566" y1="55" x2="566" y2="145" stroke="#00ff41" stroke-opacity=".2"/>
+  <g class="fade" style="animation-delay:0ms">
+    <text x="142" y="90" class="big" text-anchor="middle">28</text>
+    <text x="142" y="118" class="v" text-anchor="middle">Total contributions</text>
+    <text x="142" y="138" class="l" text-anchor="middle">since 2023-01-01</text>
+  </g>
+  <g class="fade" style="animation-delay:150ms">
+    <text x="425" y="90" class="big" text-anchor="middle">0</text>
+    <text x="425" y="118" class="v" text-anchor="middle">Current streak</text>
+    <text x="425" y="138" class="l" text-anchor="middle">days</text>
+  </g>
+  <g class="fade" style="animation-delay:300ms">
+    <text x="708" y="90" class="big" text-anchor="middle">2</text>
+    <text x="708" y="118" class="v" text-anchor="middle">Longest streak</text>
+    <text x="708" y="138" class="l" text-anchor="middle">days</text>
+  </g>
+</svg>
